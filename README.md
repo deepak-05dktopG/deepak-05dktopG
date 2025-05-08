@@ -66,11 +66,6 @@ I'm looking for an opportunity where I can apply my knowledge, learn from real-w
 Front-End Development, Styling and Layout, Interactive and Dynamic Web Development, Responsive Web, Version Control (Git, GitHub), Managing Repositories, Prompt Engineering, Data Entry
 </b></p>
 
-<p align="center">
-<b>
-HTML, CSS, Bootstrap 5, Node.js, n8n, Python (Basic), MS Office
-</b>
-</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -117,5 +112,8 @@ If you have an opportunity, project, or collaboration in mind, <br>
 ---
 
 <h3><em>"Keep Learning, Keep Building, Keep Growing!"</em></h3>
+
+
+
 
 </div>
