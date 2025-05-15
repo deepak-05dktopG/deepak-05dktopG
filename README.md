@@ -5,46 +5,62 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Hero Animation" width="100%" height="320px" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
 
 ### 💻 Tech Stack
 
-<div align="center">
-
-#### 🧠 Programming & Scripting  
-<img src="https://skillicons.dev/icons?i=java" alt="Java" />
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<table align="center">
+  <tr>
+    <!-- 🧠 Programming & Scripting -->
+    <td  align="center" >
+🧠 Programming & Scripting  
+      <br>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />  
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />  
 <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    </td>
+    <!-- ⚛️ Frontend Frameworks & Styling -->
+    <td  align="center">
+⚛️ Frontend Frameworks & Styling  
+      <br>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />  
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />  
+<img src="https://skillicons.dev/icons?i=react" alt="React" />  
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <!-- 🔧 Backend & Database -->
+    <td  align="center">
+🔧 Backend & Database  
+      <br>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />  
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" />  
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />  
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+    </td>
+    <!-- ⚙️ Tools & Deployment -->
+    <td  align="center">
+⚙️ Tools & Deployment  
+      <br>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />  
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />  
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />  
+<img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+    </td>
+  </tr>
+</table>
 
-<br>
 
-#### ⚛️ Frontend Frameworks & Styling  
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" />&nbsp;
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" />&nbsp;
-<img src="https://skillicons.dev/icons?i=react" alt="React" />&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />&nbsp;
-<br>
-#### 🔧 Backend & Database  
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />&nbsp;
-<img src="https://skillicons.dev/icons?i=express" alt="Express.js" />&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />&nbsp;
-
-
-#### ⚙️ Tools & Deployment  
-<img src="https://skillicons.dev/icons?i=git" alt="Git" />&nbsp;
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;
-<img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />&nbsp;
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
-
-
----
 
 ## 🙋‍♂️ About Me
   
-<table  style="border: 0px;">
+<table   style="border: 0px; ">
   <tr>
     <td>
       <p>
@@ -69,47 +85,64 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
 
 ### 🧩 Projects
 
-- 🔹 **AI Agent Automation Tool** — Built with OpenAI, LangChain, and MongoDB  
-- 🔹 **Affiliate E-Commerce Website** — Full-stack project with user auth, product fetch, and email notifications  
-- 🔹 **Smart Vacuum Cleaner** — IoT project with real-time control and optimization
+- 🚀 **Explore my work:** Check out all my projects on my [GitHub repository](https://github.com/deepak-05dktopG?tab=repositories)  
+- 🌟 **Discover more:** Visit my [Projects Page](deepakdigitalcraft.tech) for detailed insights and demos
 
-> 📌 *More projects available in pinned repos!*
+> 💡 *Stay tuned for exciting new projects coming soon!*
 
----
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-521998&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepak-521998&theme=radical" width="49%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-521998&layout=compact&theme=radical" width="50%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=deepak-05dktopg&show_icons=true&locale=en" alt="deepak-05dktopg" />
+    </td>
+    <td width="50%" align="right">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-05dktopg" alt="deepak-05dktopg" />
+    </td>
+  </tr>
+</table>
 
----
+
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
 
 ### 📬 Let's Connect
 
+#### I’m always open to collaborating, sharing ideas, or just saying hi! Feel free to reach out to me on any of these platforms:
+
 <p align="center">
   <a href="https://www.linkedin.com/in/deepakkumar-ai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:deepakkumarpalanisamy5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:deepakkumarpalanisamy5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/919003768733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
----
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-521998&theme=darkhub&row=1&margin-w=15&no-frame=true" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
----
+<div align="center" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
----
+<div align="center" >
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
