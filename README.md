@@ -4,7 +4,7 @@
 
 <h3><b>B.Tech AI & Data Science | Aspiring AI Agent & Full-Stack Developer | Tamil Nadu, India 🇮🇳</b></h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Hero Animation" width="100%" height="300px" />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Hero Animation" width="100%" height="300px" />
 
 ---
 
