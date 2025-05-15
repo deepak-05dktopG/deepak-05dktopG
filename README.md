@@ -92,7 +92,7 @@
 ### 🧩 Projects
 
 - 🚀 **Explore my work:** Check out all my projects on my [GitHub repository](https://github.com/deepak-05dktopG?tab=repositories)  
-- 🌟 **Discover more:** Visit my [Projects Page](deepakdigitalcraft.tech) for detailed insights and demos
+- 🌟 **Discover more:** Visit my [Projects Page](https://www.deepakdigitalcraft.tech/) for detailed insights and demos
 
 > 💡 *Stay tuned for exciting new projects coming soon!*
 
@@ -127,9 +127,9 @@
 #### I’m always open to collaborating, sharing ideas, or just saying hi! Feel free to reach out to me on any of these platforms:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepakkumar-ai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:deepakkumarpalanisamy5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/919003768733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deepak-05dktopg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kumardeepak59422@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/919025454148"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 
