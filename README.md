@@ -16,7 +16,7 @@
     <!-- 🧠 Programming & Scripting -->
     <td  align="center" >
 🧠 Programming & Scripting  
-      <br>
+      <br><br>
 <img src="https://skillicons.dev/icons?i=java" alt="Java" />  
 <img src="https://skillicons.dev/icons?i=python" alt="Python" />  
 <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
@@ -24,7 +24,7 @@
     <!-- ⚛️ Frontend Frameworks & Styling -->
     <td  align="center">
 ⚛️ Frontend Frameworks & Styling  
-      <br>
+      <br><br>
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" />  
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" />  
 <img src="https://skillicons.dev/icons?i=react" alt="React" />  
@@ -35,7 +35,7 @@
     <!-- 🔧 Backend & Database -->
     <td  align="center">
 🔧 Backend & Database  
-      <br>
+      <br><br>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />  
 <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />  
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />  
@@ -44,7 +44,7 @@
     <!-- ⚙️ Tools & Deployment -->
     <td  align="center">
 ⚙️ Tools & Deployment  
-      <br>
+      <br><br>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" />  
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />  
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />  
