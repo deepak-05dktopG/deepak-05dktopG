@@ -72,7 +72,7 @@
 
 <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-<img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge" alt="Gemini API" />
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
 <br>
