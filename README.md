@@ -39,17 +39,51 @@
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />  
 <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />  
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />  
-<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+<img src="https://img.shields.io/badge/Pinecone-purple?style=for-the-badge" alt="Pinecone" />
     </td>
     <!-- ⚙️ Tools & Deployment -->
     <td  align="center">
-⚙️ Tools & Deployment  
+⚙️ Tools & Deployment 
       <br><br>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" />  
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />  
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />  
-<img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+<img src="https://skillicons.dev/icons?i=postman" alt="postman" /> 
     </td>
+  </tr>
+    <tr>
+    <!-- ⚙️ Cloud & AI -->
+    <td  align="center">
+☁️ Tools & Deployment  
+      <br><br>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />  
+<img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /> 
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />  
+<img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />  
+    </td>
+    <td  align="center">
+🤖 AI & GenAI
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+<br>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" alt="RAG" />
+
+<img src="https://img.shields.io/badge/AI_Agents-green?style=for-the-badge" alt="AI Agents" />
+
+<img src="https://img.shields.io/badge/CrewAI-orange?style=for-the-badge" alt="CrewAI" />
+<br>
+<img src="https://img.shields.io/badge/Prompt_Engineering-red?style=for-the-badge" alt="Prompt Engineering" />
+
+<img src="https://img.shields.io/badge/MCP-black?style=for-the-badge" alt="MCP" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</td>
   </tr>
 </table>
 
@@ -64,7 +98,7 @@
   <tr>
     <td>
       <p>
-        👋 Hi there! I'm <strong>Deepakkumar</strong>, a passionate B.Tech AI & Data Science student from Tamil Nadu, India.
+        👋 Hi there! I'm <strong>Deepakkumar</strong>, a passionate B.Tech AI & Data Science graduate from Tamil Nadu, India.
       </p>
       <p>
         🔭 I’m currently focused on building AI agents, full-stack web apps, and smart chatbot systems using OpenAI, MERN stack, and automation tools like n8n.
@@ -100,22 +134,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
-
-### 📈 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=deepak-05dktopg&show_icons=true&locale=en" alt="deepak-05dktopg" />
-    </td>
-    <td width="50%" align="right">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-05dktopg" alt="deepak-05dktopg" />
-    </td>
-  </tr>
-</table>
-
-
-
 
 
 <div align="center">
