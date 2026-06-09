@@ -44,7 +44,7 @@
     </td>
     <!-- ⚙️ Tools & Deployment -->
     <td  align="center">
-⚙️ Tools & Deployment 
+⚙️ Tools
       <br><br>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" />  
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />  
