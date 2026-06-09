@@ -50,6 +50,10 @@
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />  
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />  
 <img src="https://skillicons.dev/icons?i=postman" alt="postman" /> 
+<div>
+<img src="https://img.shields.io/badge/Github-Copilot-black?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/Google-Antigravity-red?style=for-the-badge" alt="LangChain" />
+</div>
     </td>
   </tr>
     <tr>
@@ -68,7 +72,7 @@
 
 <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
 <br>
